@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
 Languages and Tools🛠:
 </summary>
   <br/>
-<code><img height="20" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20180816/fpb/kisspng-machine-learning-artificial-intelligence-computer-intelligent-icons-1-821-free-vector-icons-page-5b75693f0d5ef7.7397303815344213110548.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
