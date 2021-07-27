@@ -7,11 +7,11 @@ I am interested in learning DS, ML, AI and would 💖 to grow my knowledge in th
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/emishalabs/image/upload/q_80/v1612203030/UtkalHacks%203.0/camputer-image_zmpt7b.webp" width="400" height="280" />
 
-<!--
-**rajat-9-6/rajat-9-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- **rajat-9-6/rajat-9-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 - 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
+![](https://visitor-badge.glitch.me/badge?page_id=rajat-9-6)
