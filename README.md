@@ -59,19 +59,19 @@ Here are some ideas to get you started: -->
 <br/>
 
 <a href="https://t.me/Rajat8960">
-  <img align="right" alt="Rajat's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+  <img align="center" alt="Rajat's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
 <a href="https://github.com/rajat-9-6">
-  <img align="right" alt="Rajat's Github" width="22px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
+  <img align="center" alt="Rajat's Github" width="22px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
 </a>
 
 <a href="https://twitter.com/rajat44180600">
-  <img align="right" alt="Rajat's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+  <img align="center" alt="Rajat's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/rajat-gupta-48967a166/">
-  <img align="right" alt="Rajat's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="center" alt="Rajat's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>
