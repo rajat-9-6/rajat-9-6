@@ -13,12 +13,13 @@ I am interested in learning DS, ML, AI and would 💖 to grow my knowledge in th
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 🔭 I’m currently working on Python Development & Web Scrapping.
+- 🌱 I’m currently learning Backend Development for designing security tools.
+- 👯 I’m looking to collaborate with Fullstack and AI Developers.
 - 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
+- 💬 Ask me about Python Development, Web Scarapping, and Machine Learning.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=rajat-9-6)
+
