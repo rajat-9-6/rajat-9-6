@@ -28,7 +28,7 @@ Here are some ideas to get you started: -->
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/rajat-9-6/rajat-9-6/blob/main/github.gif"></a>
 <br/>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂: 🛠**  
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂 🛠:**  
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg"></code>
@@ -75,10 +75,3 @@ Here are some ideas to get you started: -->
 </a>
 
 <br/>
-
-### My Projects ✨:
-  
-<a href="https://github.com/rajat-9-6/Aadhaar_verification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
-</a>
-
