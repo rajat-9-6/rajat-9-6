@@ -6,7 +6,7 @@ Currently I'm working as a Software Developer at Xbiz Techventures Pvt Ltd, Mumb
 I am interested in learning DS, ML, AI and would 💖 to grow my knowledge in these Technologies.
 
 <!-- <img align="right" alt="GIF" src="https://camo.githubusercontent.com/bfa429d711bd5ff75347e2f4e6013ca60ae555ac4dcf5b343e352dd25a2cd1f7/68747470733a2f2f6f776169736e6f6f722e696e666f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f30332f6d617872657364656661756c742e6a7067" width="400" height="280" /> -->
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://lh3.googleusercontent.com/proxy/m7_0fVkHvmeqKCl8r_Ejx6mzBy5I1v-fRqKn6T-E6E0oyA1C9IvyJjxuaiEcpznvE3Xjt2tjoeKlcbAqy4g7qnZVNk_7gEM" />
 
 <!-- **rajat-9-6/rajat-9-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
