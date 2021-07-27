@@ -75,3 +75,10 @@ Here are some ideas to get you started: -->
 </a>
 
 <br/>
+
+### My Projects ✨:
+  
+<a href="https://github.com/rajat-9-6/Aadhaar_verification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+</a>
+
