@@ -54,8 +54,8 @@ Here are some ideas to get you started: -->
 ---
 
 <details>
-<summary> Connect with me🤝: </summary>  
-
+<summary> Connect with me🤝: </summary>
+<h3>Connect with me 🤝: </h3>
 <br/>
 
 <a href="https://t.me/Rajat8960">
