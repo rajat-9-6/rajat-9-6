@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
 Languages and Tools🛠:
 </summary>
   <br/>
-<code><img height="30" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg"></code>
+<code><img height="20" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20180816/fpb/kisspng-machine-learning-artificial-intelligence-computer-intelligent-icons-1-821-free-vector-icons-page-5b75693f0d5ef7.7397303815344213110548.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -49,3 +49,24 @@ Languages and Tools🛠:
 ---
 
 <details>
+<summary> Connect with me🤝: </summary>  
+
+<br/>
+
+<a href="https://t.me/Rajat8960">
+  <img align="left" alt="Rajat's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+</a>
+
+<a href="https://github.com/rajat-9-6">
+  <img align="left" alt="Rajat's Github" width="22px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
+</a>
+
+<a href="https://twitter.com/rajat44180600">
+  <img align="left" alt="Rajat's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/rajat-gupta-48967a166/">
+  <img align="left" alt="Rajat's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+<br/>
