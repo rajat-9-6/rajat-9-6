@@ -20,6 +20,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about Python Development, Web Scarapping, and Machine Learning.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
+- 📫 Email me at [rajat.171719@gmail.com](mailto:rajat.171719@gmail.com).
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=rajat-9-6)
 
