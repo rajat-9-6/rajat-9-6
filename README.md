@@ -54,8 +54,16 @@ Here are some ideas to get you started: -->
 ---
 
 <details>
-<summary> Connect with me🤝: </summary>
 <h3>Connect with me 🤝: </h3>
+
+<br/>
+<a href="https://t.me/Rajat8960">
+  <img align="right" alt="Rajat's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+</a>
+<br/>
+
+<summary> Connect with me🤝: </summary>
+
 <br/>
 
 <a href="https://t.me/Rajat8960">
