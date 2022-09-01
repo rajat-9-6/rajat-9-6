@@ -2,7 +2,7 @@
 
 ### About me🧑:
 I am a Software Developer with hands on experience in Python and Machine Learning Programming.<br/>
-Currently I'm working as a Software Developer at Xbiz Techventures Pvt Ltd, Mumbai.<br/>
+Currently I'm working as an Executive at KPMG India, Mumbai.<br/>
 I am interested in learning DS, ML, AI and would 💖 to grow my knowledge in these Technologies.
 
 <!-- <img align="right" alt="GIF" src="https://camo.githubusercontent.com/bfa429d711bd5ff75347e2f4e6013ca60ae555ac4dcf5b343e352dd25a2cd1f7/68747470733a2f2f6f776169736e6f6f722e696e666f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f30332f6d617872657364656661756c742e6a7067" width="400" height="280" /> -->
